@@ -1,6 +1,6 @@
 # Docs
 
-### MSDOS Programming
+### MS-DOS Programming
 
 The art of assembly language
 
