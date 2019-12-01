@@ -29,5 +29,4 @@ http://flint.cs.yale.edu/cs422/doc/art-of-asm/pdf/
 Various tools<br>
 <br>
 https://github.com/cnvogelg/amitools
-
 https://github.com/adtools/amigaos-cross-toolchain
