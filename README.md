@@ -1,6 +1,6 @@
 # Docs
 
-### Amiga programming
+### Amiga programming and source code
 
 https://github.com/chrhhn/guidetoamigacompatibleprogramming
 http://amiga-dev.wikidot.com/information:hardware
@@ -8,6 +8,9 @@ http://amigadev.elowar.com/read/ADCD_2.1/Hardware_Manual_guide/node0000.html
 http://pasti.fxatari.com/68kdocs/68kPrefetch.html
 http://zakalwe.fi/~shd/amiga-cracking/agafix-v1.html
 https://wiki.amigaos.net/wiki/Main_Page
+https://www.amigagamedev.com/
+
+https://gitlab.com/amigasourcecodepreservation
 
 Disassembly of some Amiga components
 
