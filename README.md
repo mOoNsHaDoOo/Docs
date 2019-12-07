@@ -31,7 +31,6 @@ http://www.zimmers.net/cbmpics/cbm/c64/c64prg.txt
 
 ### Amiga tools
 
-<br>
 https://github.com/cnvogelg/amitools<br>
 https://github.com/adtools/amigaos-cross-toolchain
 
