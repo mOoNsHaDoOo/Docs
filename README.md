@@ -24,7 +24,7 @@ http://flint.cs.yale.edu/cs422/doc/art-of-asm/pdf/
 
 ### Commodore 64 programming
 
-http://www.classiccmp.org/cini/pdf/Commodore/C64%20Programmer%27s%20Reference%20Guide.pdf
+http://www.classiccmp.org/cini/pdf/Commodore/C64%20Programmer%27s%20Reference%20Guide.pdf<br>
 http://www.zimmers.net/cbmpics/cbm/c64/c64prg.txt
 
 # Tools
