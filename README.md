@@ -30,3 +30,7 @@ Various tools<br>
 <br>
 https://github.com/cnvogelg/amitools<br>
 https://github.com/adtools/amigaos-cross-toolchain
+
+### General source code repositories
+
+https://github.com/historicalsource?tab=repositories
